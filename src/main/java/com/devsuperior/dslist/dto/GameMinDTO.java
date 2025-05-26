@@ -2,7 +2,7 @@ package com.devsuperior.dslist.dto;
 
 import com.devsuperior.dslist.entities.Game;
 import com.devsuperior.dslist.entities.GameList;
-import com.devsuperior.dslist.prjections.GameMinProjection;
+import com.devsuperior.dslist.projections.GameMinProjection;
 
 public class GameMinDTO {
 
